@@ -6,6 +6,10 @@
     --paragraph-color: hsla(0, 0%, 100%, 0.75);
 }
 
+.seo{
+    display: none;
+}
+
 body{
     background-color: var(--bg-color);
     font-family: 'Lexend Deca', sans-serif;
